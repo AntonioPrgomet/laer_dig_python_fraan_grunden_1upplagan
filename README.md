@@ -1,4 +1,4 @@
-# Python från grunden
+# Lär dig Python från grunden
 
 Denna GitHub sida innehåller material för boken **Python från grunden**, första upplagan av Linus Rundberg Streuli och Antonio Prgomet.
 
@@ -15,5 +15,5 @@ Hittar ni fel i boken så tar vi tacksamt emot dem och lägger upp dessa på den
 
 
 Vi önskar dig en trevlig läsning av boken. <br>
-Linus Rundberg Streuli,  <br>
+Linus Rundberg Streuli, https://www.linkedin.com/in/linusrundbergstreuli/ <br>
 Antonio Prgomet, www.linkedin.com/in/antonioprgomet
