@@ -1,6 +1,6 @@
 # Lär dig Python från grunden
 
-Denna GitHub sida innehåller material för boken **Python från grunden** av Linus Rundberg Streuli och Antonio Prgomet. ISBN: 9789178198313 .
+Denna GitHub sida innehåller material för boken **Python från grunden** av Linus Rundberg Streuli och Antonio Prgomet. ISBN: 9789181110500 .
 Ett "smakprov" av boken kan ses i dokumentet "lär_dig_python_från_grunden_smakprov".
 
 Den som önskar köpa boken kan exempelvis göra det här: 
