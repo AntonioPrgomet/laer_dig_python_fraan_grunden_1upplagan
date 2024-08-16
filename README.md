@@ -7,7 +7,7 @@ Denna GitHub sida innehåller material för boken **Python från grunden** av Li
 * I mappen "uppgifter" finns alla uppgifter för respektive kapitel i boken.
 * Filen "data.db" är datan som används i kapitel 12 och kapitel 13.
 
-Hittar ni fel i boken så tar vi tacksamt emot dem och lägger upp dessa på denna GitHub i ett dokument som heter "Errata". Mejla linus.rundberg.streuli@gmail.com 
+Hittar ni fel i boken så tar vi tacksamt emot dessa och lägger upp i dokumentet "Errata". Mejla linus.rundberg.streuli@gmail.com 
 
 
 Vi önskar dig en trevlig läsning av boken. <br>
